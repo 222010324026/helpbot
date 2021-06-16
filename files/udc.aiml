@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>hi</pattern>
+    <template>hi how can i help you</template>
+  </category>
+<category>
+    <pattern>hello</pattern>
+    <template>hello how can i help you</template>
+</category>
+<category>
+    <pattern>how are u</pattern>
+    <template>fine what about you</template>
+</category>
+<category>
+    <pattern>fine</pattern>
+    <template>ok</template>
+</category>
+<category>
+    <pattern>how can i find my phone number</pattern>
+    <template>open dail pad and type *1#</template>
+</category>
+<category>
+    <pattern>ok thank u</pattern>
+    <template>thank you</template>
+</category>
+</aiml>
